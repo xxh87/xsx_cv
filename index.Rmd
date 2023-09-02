@@ -1,6 +1,6 @@
 ---
-title: "XIE, Xin-hui"
-author: XIE, Xin-hui
+title: "XU, Shu-xian"
+author: XU, Shu-xian
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -19,7 +19,7 @@ output:
 -   ORCID: [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
 -   Google Scholar: [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
 
-## ![Citation](pics/Citation.png)
+## 
 
 Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
@@ -33,7 +33,7 @@ Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 # Main
 
-## XIE, Xin-hui {#title}
+## XU, Shu-xian {#title}
 
 ### Currently seeking an Assistant Professor, Postdoctoral Researcher, Scientist, or other scientific position.
 
