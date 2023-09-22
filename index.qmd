@@ -6,7 +6,7 @@ format:
 
 # XU, Shu-xian (徐淑娴)
 
-#### Currently seeking a *Postdoctoral Researcher*, *Scientist*, or other *scientific position*.
+#### [Currently seeking a *Postdoctoral Researcher*, *Scientist*, or other *scientific position*.]{style="color: #c90f23"}
 
 +--------------------------------------------------------------------------------------+------------------------------------------+
 | ### Contact Info                                                                     | Citation (Update: Sep-22-2023)           |
@@ -30,13 +30,13 @@ format:
 
 ## SKILLS
 
--   **Design and conduct pre- and clinical studies**.
+-   Design and conduct pre- and clinical studies.
 
--   **Single cell / nuclei sequencing of human brain / cell culture sample**s.
+-   Single cell / nuclei sequencing of human brain / cell culture samples.
 
 -   EV isolation, validation, and downstreams using human brain / plasma / cell culture / urine samples.
 
--   **Analyze data utilizing various statistical tool**s.
+-   Analyze data utilizing various statistical tools.
 
 ## EDUCATION
 
