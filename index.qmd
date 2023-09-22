@@ -1,0 +1,125 @@
+---
+format:
+  html:
+    embed-resources: true
+---
+
+# XU, Shu-xian (徐淑娴)
+
+#### Currently seeking a *Postdoctoral Researcher*, *Scientist*, or other *scientific position*.
+
++--------------------------------------------------------------------------------------+------------------------------------------+
+| ### Contact Info                                                                     | Citation (Update: Sep-22-2023)           |
++======================================================================================+=========================================:+
+| shuxianxu\@outlook.com                                                               | ![](pics/Citation_xuxu.png){width="250"} |
+|                                                                                      |                                          |
+| ORCID: [0000-0003-3769-2525](https://orcid.org/my-orcid?orcid=0000-0003-3769-2525)   |                                          |
+|                                                                                      |                                          |
+| Google Scholar: [Shuxian Xu](https://scholar.google.com/citations?user=SozX69MAAAAJ) |                                          |
+|                                                                                      |                                          |
+| Research Gate: [Shuxian Xu](https://www.researchgate.net/profile/Shuxian-Xu-3)       |                                          |
++--------------------------------------------------------------------------------------+------------------------------------------+
+
+## RESEARCH AREAS
+
+-   Integrated clinical and pre-clinical research: neuroinflammation, insulin resistance, and depression via brain-derived extracellular vesicles (EVs).
+
+-   Roles of EVs in mediating brain communication and plasticity.
+
+-   Connection between cognition and neurogenesis in electroconvulsive therapy (ECT).
+
+## SKILLS
+
+-   **Design and conduct pre- and clinical studies**.
+
+-   **Single cell / nuclei sequencing of human brain / cell culture sample**s.
+
+-   EV isolation, validation, and downstreams using human brain / plasma / cell culture / urine samples.
+
+-   **Analyze data utilizing various statistical tool**s.
+
+## EDUCATION
+
+#### Wuhan University, Wuhan, China (2020 - 2024)
+
+-   Ph.D. candidate in Psychiatry.
+
+-   Main research contents:
+
+    Investigating the status of neuroinflammation, insulin resistance and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after ECT.
+
+#### McGill University, Montreal, Canada (2023 - 2024)
+
+-   Graduate Research Trainee.
+
+-   Main research contents:
+
+    Extracellular vesicle mediation of brain communication and plasticity.
+
+#### Anhui Medical University, Hefei, China (2014 - 2017)
+
+-   M.S. in Psychiatry.
+
+-   Main research contents:
+
+    New strategy for electroconvulsive therapy (ECT) in mental health patients: maintain efficacy while minimizing side effects.
+
+#### Southern Medical University, Guangzhou, China (2009 - 2014)
+
+-   M.D. equivalent
+
+## PROFESSIONAL EXPERIENCE
+
+#### Department of Psychiatry, Huizhou Mental Health Center (Second People's Hospital of Huizhou)
+
+-   Resident Psychiatrist, Residency training program.
+
+## Publications
+
+(Note: #First author, \*Corresponding author, the selected publications were marked in **bold**)
+
+Xie, X. H.#\*, [**Xu,S. X.**]{.underline}, Yao, L.H., Chen, M.M. Liu, Z. (2023). **ORAL: NEUROGENESIS HYPOTHESIS OF DEPRESSION AND ELECTROCONVULSIVE THERAPY (ECT): HUMAN *IN VIVO* EVIDENCE FROM PLASMA NEURON-DERIVED EXTRACELLULAR VESICLES (NDEVS).** *The 23rd WPA World Congress of Psychiatry Vienna, Austria*
+
+[**Xu, S. X.#**]{.underline}, Xie, X. H.#, Yao, L., Wang, W., Zhang, H., Chen, M. M., Sun, S., Nie, Z. W., Nagy, C., & Liu, Z.\* (2023). **Human *in vivo* evidence of reduced astrocyte activation and neuroinflammation in patients with treatment-resistant depression following electroconvulsive therapy.** *Psychiatry and clinical neurosciences*, Advance online publication. [DOI](https://doi.org/10.1111/pcn.13596) [PMID](https://pubmed.ncbi.nlm.nih.gov/37675893/)
+
+[**Xu, S. X.#**,]{.underline} Xie, X. H.#, Yao, L., Wang, W., Zhang, H., Chen, M. M., \... & Liu, Z\*. (2023). **Trajectories of Efficacy and Cognitive Function During Electroconvulsive Therapy Course in Young Adults with Treatment-Resistant Depression.** *Neuropsychiatric disease and treatment*, 19, 267--281. [DOI](https://doi.org/10.2147/ndt.s394155) [PMID](https://pubmed.ncbi.nlm.nih.gov/36744206/)
+
+Chen, M. M.#, Wang, P., Xie, X. H., Nie, Z., [**Xu, S. X.**]{.underline}, Zhang, N., Wang, W., Yao, L., & Liu, Z.\* (2023). Young Adults with Major Depression Show Altered Microbiome. *Neuroscience*, 522, 23--32. [DOI](https://doi.org/10.1016/j.neuroscience.2023.05.002) [PMID](https://pubmed.ncbi.nlm.nih.gov/37169166/)
+
+Chen, G.#, Ma, S.#, Gong, Q.#, Xie, X. H., Wu, P., Guo, W., Kang, L., Li, M., Zhang, H., Zhou, E., Zhang, Y., Rong, J., Duan, H., Jin, L., [**Xu, S. X.**]{.underline}, Zhang, N., Sun, S., Li, R., Yao, L., Xiang, D., ... Liu, Z.\* (2023). Assessment of brain imaging and cognitive function in a modified rhesus monkey model of depression. *Behavioural brain research*, 445, 114382. [DOI](https://doi.org/10.1016/j.bbr.2023.114382) [PMID](https://pubmed.ncbi.nlm.nih.gov/36871905/)
+
+Ma, S.#, Wang, W., Gong, Q., Xiang, D., Yao, L., [**Xu, S. X.**]{.underline}, Xie, X. H., Wang, H., Wang, G., Yang, J., & Liu, Z.\* (2023). Inflammatory bowel disease and the long-term risk of depression: A prospective cohort study of the UK biobank. *General hospital psychiatry*, 82, 26--32. [DOI](https://doi.org/10.1016/j.genhosppsych.2023.03.002) [PMID](https://pubmed.ncbi.nlm.nih.gov/36924701/)
+
+Nie, Z., Xie, X. H., Kang, L., Wang, W., [**Xu, S. X.**]{.underline}, Chen, M., Yao, L., Gong, Q., Zhou, E., Li, M., Wang, H., Bu, L., & Liu, Z.\* (2023). A Cross-Sectional Study: Structural and Related Functional Connectivity Changes in the Brain: Stigmata of Adverse Parenting in Patients with Major Depressive Disorder? *Brain sciences*, 13(4), 694. [DOI](https://doi.org/10.3390/brainsci13040694) [PMID](https://pubmed.ncbi.nlm.nih.gov/37190659/)
+
+Xie, X. H.#, Lai, W. T., [**Xu, S. X.**]{.underline}, Forti, M. D., Zhang, J. Y., Chen, M. M., Yao, L. H., Wang, P. L., Hao, K. K., & Han, R.\* (2023). **Hyper-inflammation of Astrocytes in Patients of Major Depressive Disorder: Evidence from Serum Astrocyte-derived Extracellular Vesicles.** *Brain, behavior, and immunity*, 109, 51--62. [DOI](https://doi.org/10.1016/j.bbi.2022.12.014) [PMID](https://pubmed.ncbi.nlm.nih.gov/36587855/)
+
+Yao, L.#, Zhang, N., Ma, S., Xie, X. H., [**Xu, S. X.**]{.underline}, Xiang, D., Kang, L., Chen, M. M., Wang, P., & Liu, Z.\* (2022). The relationship between vitamin D levels in seasonal variations and Chinese patients with first-episode drug-naive depression. *Journal of psychosomatic research*, 164, 111079. [DOI](https://doi.org/10.1016/j.jpsychores.2022.111079) [PMID](https://pubmed.ncbi.nlm.nih.gov/36402037/)
+
+[**Xu, S. X.#**]{.underline}, Xie, X. H., Su, D., & Liu, Z.\* (2022). Electroconvulsive Therapy in a Young Adult Patient With Bipolar Depression and Dysembryoplastic Neuroepithelial Tumor: A Case Report. *The journal of ECT*, 10.1097/YCT.0000000000000876. [DOI](https://doi.org/10.1097/yct.0000000000000876) [PMID](https://pubmed.ncbi.nlm.nih.gov/35917211/)
+
+Zhang, J. Y.#, [**Xu, S. X.#**]{.underline}, Zeng, L.#, Chen, L. C., Li, J., Jiang, Z. Y., Tan, B. J., Gu, C. L., Lai, W. T., Kong, X. M., Wang, J., Rong, H., & Xie, X. H.*\** (2022). **Improved Safety of Hybrid Electroconvulsive Therapy Compared With Standard Electroconvulsive Therapy in Patients With Major Depressive Disorder: A Randomized, Double-Blind, Parallel-Group Pilot Trial.** *Frontiers in psychiatry*, 13, 896018. [DOI](https://doi.org/10.3389/fpsyt.2022.896018) [PMID](https://pubmed.ncbi.nlm.nih.gov/35677877/)
+
+[**Xu, S. X.#**]{.underline}, Deng, W. F.#, Qu, Y. Y.#, Lai, W. T., Huang, T. Y., Rong, H., & Xie, X. H.*\** (2021). **The integrated understanding of structural and functional connectomes in depression: A multimodal meta-analysis of graph metrics.** *Journal of affective disorders*, 295, 759--770. [DOI](https://doi.org/10.1016/j.jad.2021.08.120) [PMID](https://pubmed.ncbi.nlm.nih.gov/34517250/)
+
+Huang, T. Y.#, Deng, W. F.#, Li, X. P., Chen, H. Q., [**Xu, S. X.**]{.underline}, Ke, S. H., & Xie, X. H.*\** (2021). Higher prevalence of coronary artery calcification in schizophrenia patients. *Schizophrenia research*, 231, 47--48. [DOI](https://doi.org/10.1016/j.schres.2021.03.002) [PMID](https://pubmed.ncbi.nlm.nih.gov/33752106/)
+
+Li, J.#, Deng, W. F.#, [**Xu, S. X.#**]{.underline}, Jiang, Z. Y., Rong, H., Kong, X. M., & Xie, X. H.*\** (2021). **The efficacy and acceptability of hybrid electroconvulsive therapy compared with standard electroconvulsive therapy for schizophrenia patients: A parallel-group, double-blind, randomized, controlled trial.** *Brain stimulation*, 14(3), 737--739. [DOI](https://doi.org/10.1016/j.brs.2021.04.017) [PMID](https://pubmed.ncbi.nlm.nih.gov/33962078/)
+
+Lai, W. T.#, Zhao, J.#, [**Xu, S. X.#**]{.underline}, Deng, W. F.#, Xu, D., Wang, M. B., He, F. S., Liu, Y. H., Guo, Y. Y., Ye, S. W., Yang, Q. F., Zhang, Y. L., Wang, S., Li, M. Z., Yang, Y. J., Liu, T. B., Tan, Z. M., Xie, X. H.*\**, & Rong, H.\* (2021). **Shotgun metagenomics reveals both taxonomic and tryptophan pathway differences of gut microbiota in bipolar disorder with current major depressive episode patients.** *Journal of affective disorders*, 278, 311--319. [DOI](https://doi.org/10.1016/j.jad.2020.09.010) [PMID](https://pubmed.ncbi.nlm.nih.gov/32979562/)
+
+Lai, W. T.#, Deng, W. F.#, [**Xu, S. X.#**]{.underline}, Zhao, J., Xu, D., Liu, Y. H., Guo, Y. Y., Wang, M. B., He, F. S., Ye, S. W., Yang, Q. F., Liu, T. B., Zhang, Y. L., Wang, S., Li, M. Z., Yang, Y. J., Xie, X. H.*\**, & Rong, H.\* (2021). **Shotgun metagenomics reveals both taxonomic and tryptophan pathway differences of gut microbiota in major depressive disorder patients.** *Psychological medicine*, 51(1), 90--101. [DOI](https://doi.org/10.1017/s0033291719003027) [PMID](https://pubmed.ncbi.nlm.nih.gov/31685046/)
+
+Rong, H.#, [**Xu, S. X.#**]{.underline}, Zeng, J.#, Yang, Y. J., Zhao, J., Lai, W. T., Chen, L. C., Deng, W. F., Zhang, X., Zhang, Y. L., Li, M. Z., Xiao, L., & Xie, X. H.*\** (2019). **Study protocol for a parallel-group, double-blinded, randomized, controlled, noninferiority trial: the effect and safety of hybrid electroconvulsive therapy (Hybrid-ECT) compared with routine electroconvulsive therapy in patients with depression.** *BMC psychiatry*, 19(1), 344. [DOI](https://doi.org/10.1186/s12888-019-2320-3) [PMID](https://pubmed.ncbi.nlm.nih.gov/31694611/)
+
+Kong, X. M.#, Xie, X. H., [**Xu, S. X.**]{.underline}, Chen, Y., Wang, C., Hong, H., & Sun, Y.\* (2019). Low-Charge Electrotherapy in Geriatric Major Depressive Disorder Patients: A Case Series. *Psychiatry investigation*, 16(6), 464--468. [DOI](https://doi.org/10.30773/pi.2019.03.21.1) [PMID](https://pubmed.ncbi.nlm.nih.gov/31247706/)
+
+Rong, H.#, Xie, X. H.#, Zhao, J., Lai, W. T., Wang, M. B., Xu, D., Liu, Y. H., Guo, Y. Y., [**Xu, S. X.**]{.underline}, Deng, W. F., Yang, Q. F., Xiao, L., Zhang, Y. L., He, F. S., Wang, S., & Liu, T. B.\* (2019). Similarly in depression, nuances of gut microbiota: Evidences from a shotgun metagenomics sequencing study on major depressive disorder versus bipolar disorder with current major depressive episode patients. *Journal of psychiatric research*, 113, 90--99. [DOI](https://doi.org/10.1016/j.jpsychires.2019.03.017) [PMID](https://pubmed.ncbi.nlm.nih.gov/30927646/)
+
+Li, M. Z.#, Chen, L. C.#, Rong, H., [**Xu, S. X.**]{.underline}, Li, Y., Yang, Q. F., Deng, W. F., Yang, H. Z., Kong, X. M., Xiao, L., & Xie, X. H.*\** (2019). Low-charge electrotherapy for patients with schizophrenia: A double-blind, randomised controlled pilot clinical trial. *Psychiatry research*, 272, 676--681. [DOI](https://doi.org/10.1016/j.psychres.2018.12.143) [PMID](https://pubmed.ncbi.nlm.nih.gov/30616140/)
+
+Kong, X. M.#, [**Xu, S. X.#**]{.underline}, Sun, Y., Wang, K. Y., Wang, C., Zhang, J., Xia, J. X., Zhang, L., Tan, B. J., & Xie, X. H.*\** (2017). Electroconvulsive therapy changes the regional resting state function measured by regional homogeneity (ReHo) and amplitude of low frequency fluctuations (ALFF) in elderly major depressive disorder patients: An exploratory study. *Psychiatry research. Neuroimaging*, 264, 13--21. [DOI](https://doi.org/10.1016/j.pscychresns.2017.04.001) [PMID](https://pubmed.ncbi.nlm.nih.gov/28412557/)
+
+[**Xu, S. X.#**]{.underline}, Huang, Y.#, Xiao, J., Zhu, W., Wang, L., Tang, H., \... & Liu, T\*. The association between job strain and coronary heart disease: a meta-analysis of prospective cohort studies. *Annals of medicine*, *47*(6), 512--518. [DOI](https://doi.org/10.3109/07853890.2015.1075658) [PMID](https://pubmed.ncbi.nlm.nih.gov/26416502/)
+
+Huang, Y. #, [**Xu, S. X. \#**]{.underline}, Hua, J., Zhu, D., Liu, C., Hu, Y., \... & Xu, D\*. Association between job strain and risk of incident stroke: A meta-analysis. *Neurology*, *85*(19), 1648--1654. [DOI](10.1212/WNL.0000000000002098) [PMID](https://pubmed.ncbi.nlm.nih.gov/26468409/)
