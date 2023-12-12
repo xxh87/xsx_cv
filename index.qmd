@@ -9,7 +9,7 @@ format:
 #### [Currently seeking a *Postdoctoral Researcher*, *Scientist*, or other *scientific position*.]{style="color: #c90f23"}
 
 +--------------------------------------------------------------------------------------+------------------------------------------+
-| ### Contact Info                                                                     | Citation (Update: Oct-31-2023)           |
+| ### Contact Info                                                                     | Citation (Update: Dec-12-2023)           |
 +======================================================================================+=========================================:+
 | shuxianxu\@outlook.com                                                               | ![](pics/Citation_xuxu.png){width="250"} |
 |                                                                                      |                                          |
@@ -78,9 +78,13 @@ format:
 
 (Note: #First author, \*Corresponding author, the selected publications were marked in **bold**)
 
+Xie, X. H.#, [**Xu, S. X.#**,]{.underline} Yao, L., Chen, M. M., Zhang, H., Wang, C.,Nagy, C., & Liu, Z.\* (2023). **Altered *In Vivo* Early Neurogenesis Traits in Patients with Depression: Evidence from Neuron-Derived Extracellular Vesicles and Electroconvulsive Therapy.** *Brain stimulation*, in press.
+
+Huang, T. Y.#, Chen, L. C.#, Li, X. P.#, Li, W. H., [**Xu, S. X.**]{.underline}, Nagy, C., Ibrahim, P., Nie, Z. W., Yang, N. Y., Zeng, L., Huang, H. W., Turecki, G., Xie, X. H.\* (2023). **Elevated Triglycerides and Low Triiodothyronine: Key Risk Factors for Coronary Artery Calcification in Schizophrenia Patients**. *Schizophrenia research*, in press.
+
 Xie, X. H.#\*, [**Xu,S. X.**]{.underline}, Yao, L.H., Chen, M.M. Liu, Z. (2023). **ORAL: NEUROGENESIS HYPOTHESIS OF DEPRESSION AND ELECTROCONVULSIVE THERAPY (ECT): HUMAN *IN VIVO* EVIDENCE FROM PLASMA NEURON-DERIVED EXTRACELLULAR VESICLES (NDEVS).** *The 23rd WPA World Congress of Psychiatry Vienna, Austria*
 
-[**Xu, S. X.#**]{.underline}, Xie, X. H.#, Yao, L., Wang, W., Zhang, H., Chen, M. M., Sun, S., Nie, Z. W., Nagy, C., & Liu, Z.\* (2023). **Human *in vivo* evidence of reduced astrocyte activation and neuroinflammation in patients with treatment-resistant depression following electroconvulsive therapy.** *Psychiatry and clinical neurosciences*, Advance online publication. [DOI](https://doi.org/10.1111/pcn.13596) [PMID](https://pubmed.ncbi.nlm.nih.gov/37675893/)
+[**Xu, S. X.#**]{.underline}, Xie, X. H.#, Yao, L., Wang, W., Zhang, H., Chen, M. M., Sun, S., Nie, Z. W., Nagy, C., & Liu, Z.\* (2023). **Human *in vivo* evidence of reduced astrocyte activation and neuroinflammation in patients with treatment-resistant depression following electroconvulsive therapy.** *Psychiatry and clinical neurosciences*, 77, 653--664. [DOI](https://doi.org/10.1111/pcn.13596) [PMID](https://pubmed.ncbi.nlm.nih.gov/37675893/)
 
 [**Xu, S. X.#**,]{.underline} Xie, X. H.#, Yao, L., Wang, W., Zhang, H., Chen, M. M., \... & Liu, Z\*. (2023). **Trajectories of Efficacy and Cognitive Function During Electroconvulsive Therapy Course in Young Adults with Treatment-Resistant Depression.** *Neuropsychiatric disease and treatment*, 19, 267--281. [DOI](https://doi.org/10.2147/ndt.s394155) [PMID](https://pubmed.ncbi.nlm.nih.gov/36744206/)
 
