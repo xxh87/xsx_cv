@@ -80,7 +80,7 @@ format:
 
 Xie, X. H.#, [**Xu, S. X.#**,]{.underline} Yao, L., Chen, M. M., Zhang, H., Wang, C.,Nagy, C., & Liu, Z.\* (2023). **Altered *In Vivo* Early Neurogenesis Traits in Patients with Depression: Evidence from Neuron-Derived Extracellular Vesicles and Electroconvulsive Therapy.** *Brain stimulation*, in press.
 
-Huang, T. Y.#, Chen, L. C.#, Li, X. P.#, Li, W. H., [**Xu, S. X.**]{.underline}, Nagy, C., Ibrahim, P., Nie, Z. W., Yang, N. Y., Zeng, L., Huang, H. W., Turecki, G., Xie, X. H.\* (2023). **Elevated Triglycerides and Low Triiodothyronine: Key Risk Factors for Coronary Artery Calcification in Schizophrenia Patients**. *Schizophrenia research*, in press.
+Huang, T. Y.#, Chen, L. C.#, Li, X. P.#, Li, W. H., [**Xu, S. X.**]{.underline}, Nagy, C., Ibrahim, P., Nie, Z. W., Yang, N. Y., Zeng, L., Huang, H. W., Turecki, G., Xie, X. H.\* (2023). Elevated Triglycerides and Low Triiodothyronine: Key Risk Factors for Coronary Artery Calcification in Schizophrenia Patients. *Schizophrenia research*, in press.
 
 Xie, X. H.#\*, [**Xu,S. X.**]{.underline}, Yao, L.H., Chen, M.M. Liu, Z. (2023). **ORAL: NEUROGENESIS HYPOTHESIS OF DEPRESSION AND ELECTROCONVULSIVE THERAPY (ECT): HUMAN *IN VIVO* EVIDENCE FROM PLASMA NEURON-DERIVED EXTRACELLULAR VESICLES (NDEVS).** *The 23rd WPA World Congress of Psychiatry Vienna, Austria*
 
