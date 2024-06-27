@@ -9,7 +9,7 @@ format:
 #### [Currently seeking a *Postdoctoral Researcher*, *Scientist*, or other *scientific position*.]{style="color: #c90f23"}
 
 +--------------------------------------------------------------------------------------+------------------------------------------+
-| ### Contact Info                                                                     | Citation (Update: Jan-13-2024)           |
+| ### Contact Info                                                                     | Citation (Update: June-25-2024)          |
 +======================================================================================+=========================================:+
 | shuxianxu\@outlook.com                                                               | ![](pics/Citation_xuxu.png){width="250"} |
 |                                                                                      |                                          |
